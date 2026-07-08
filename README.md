@@ -16,38 +16,6 @@ This project is a Playwright-based test automation framework designed for end-to
 - GitHub Actions / Azure DevOps (Optional)
 
 ---
-
-## Project Structure
-
-```text
-Playwright-Framework/
-│
-├── tests/
-│   ├── login.spec.ts
-│   ├── dashboard.spec.ts
-│
-├── pages/
-│   ├── LoginPage.ts
-│   ├── DashboardPage.ts
-│
-├── fixtures/
-│   ├── testFixture.ts
-│
-├── test-data/
-│   ├── loginData.json
-│
-├── utils/
-│   ├── config.ts
-│   ├── logger.ts
-│   └── helpers.ts
-│
-├── playwright.config.ts
-├── package.json
-└── README.md
-```
-
----
-
 ## Prerequisites
 
 Before running the framework, ensure the following are installed:
