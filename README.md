@@ -1,6 +1,6 @@
 # Playwright Automation Framework
 
---https://automationintesting.online/
+https://automationintesting.online/
 
 ## Overview
 
